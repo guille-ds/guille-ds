@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi there 👋 This is Guille!
 
-<!--
-**guille-ds/guille-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am data lover with an architecture background
 
 - 🔭 I’m currently looking for a job in the data science field.
-- 🌱 I’m currently learning SQL and other tools.
-- 👯 I’m looking to collaborate on geodata projects
-- 💬 Ask me about rockets, applied science and bikes!!
+- 🌱 I’m currently learning all I can about Python language, SQL, Machine Learning and other tools.
+- 👯 I’m looking to collaborate on Geodata, Computer Vision and Computational Design projects.
+- 💬 Ask me about Machine Learning, H3, CV2 and others
 - 📫 How to reach me: https://www.linkedin.com/in/guillermo-diego/
--->
