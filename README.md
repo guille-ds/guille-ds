@@ -1,4 +1,4 @@
-### Hi there 👋 This is Guille!
+### Hi there 👋 This is Guille! [ɡiˈʝɛ]
 
 I am data lover with an architecture background
 
