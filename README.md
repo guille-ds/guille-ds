@@ -3,8 +3,9 @@
 I am data lover with an architecture background
 
 - 🔭 I’m currently looking for a job in the Data Science field.
-- 🌱 So I'm learning all I can about Python, SQL, Machine Learning and other tools.
-- 📚 On board of *"Databases: Relational Databases and SQL"* [edX](https://home.edx.org/) course
+- 🌱 So I'm learning all I can about Python, pySpark, SQL, Machine Learning and other tools.
+- 📚 Just finished *"Databases: Relational Databases and SQL"* [edX](https://home.edx.org/) course.
+- 🤖 So I enrrolled in *"CS50AI Artificial intelligence with Python"* [edX](https://www.edx.org/es/course/cs50s-introduction-to-artificial-intelligence-with-python) course.
 - 👯 I’m looking to collaborate on *Geodata, Computer Vision* and *Computational Design* projects.
 - 💬 Ask me about Machine Learning, H3, CV2 and others.
 - 📫 How to reach me: https://www.linkedin.com/in/guillermo-diego/
